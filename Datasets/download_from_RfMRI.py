@@ -49,6 +49,9 @@ DATASETS = {
     "Rumination_fMRI": [
         "PaperDataSharing/Chen_2020_RuminationfMRIData/RuminationfMRIData.tar.gz",
         "PaperDataSharing/Chen_2020_RuminationfMRIData/RuminationfMRIData_Phenotypic.csv",
+    ],
+    "ThinkAloud": [
+        "PaperDataSharing/Li_2022_ThinkAloudfMRIData/ThinkAloudData.zip"
     ]
 }
 
