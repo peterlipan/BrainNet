@@ -1,0 +1,65 @@
+ABIDE:
+  - /sharing/RfMRIMaps/ABIDE/ABIDE_RfMRI.part1.rar
+  - /sharing/RfMRIMaps/ABIDE/ABIDE_RfMRI.part2.rar
+  - /sharing/RfMRIMaps/ABIDE/ABIDE_RfMRI.part3.rar
+  - /sharing/RfMRIMaps/ABIDE/RfMRIMaps_ABIDE_Phenotypic.csv
+
+ABIDE2:
+  - /sharing/RfMRIMaps/ABIDE2/ABIDE2_RfMRI.part1.rar
+  - /sharing/RfMRIMaps/ABIDE2/ABIDE2_RfMRI.part2.rar
+  - /sharing/RfMRIMaps/ABIDE2/ABIDE2_RfMRI.part3.rar
+  - /sharing/RfMRIMaps/ABIDE2/RfMRIMaps_ABIDE2_Phenotypic.csv
+
+ADHD:
+  - /sharing/RfMRIMaps/ADHD200/ADHD200_RfMRI.part1.rar
+  - /sharing/RfMRIMaps/ADHD200/ADHD200_RfMRI.part2.rar
+  - /sharing/RfMRIMaps/ADHD200/ADHD200_RfMRI.part3.rar
+  - /sharing/RfMRIMaps/ADHD200/ADHD200_Phenotypic.csv
+
+Beijing_EOEC:
+  - /sharing/RfMRIMaps/Beijing_EOEC/Beijing_EOEC1.tar.gz
+  - /sharing/RfMRIMaps/Beijing_EOEC/Beijing_EOEC2.tar.gz
+  - /sharing/RfMRIMaps/Beijing_EOEC/Beijing_EOEC1_phenographic.csv
+  - /sharing/RfMRIMaps/Beijing_EOEC/Beijing_EOEC2_phenographic.csv
+
+CORR:
+  - /sharing/RfMRIMaps/CORR/CORR_BetweenSessionTRT/CORR_BetweenSessionTRT_RfMRI.part1.rar
+  - /sharing/RfMRIMaps/CORR/CORR_BetweenSessionTRT/CORR_BetweenSessionTRT_RfMRI.part2.rar
+  - /sharing/RfMRIMaps/CORR/CORR_BetweenSessionTRT/CORR_BetweenSessionTRT_RfMRI.part3.rar
+  - /sharing/RfMRIMaps/CORR/CORR_HNU_CCBD_10Repetition/CORR_HNU_CCBD10Repetition.rar
+  - /sharing/RfMRIMaps/CORR/CORR_WithinSessionTRT/CORR_WithinSessionTRT.part1.rar
+  - /sharing/RfMRIMaps/CORR/CORR_WithinSessionTRT/CORR_WithinSessionTRT.part2.rar
+  - /sharing/RfMRIMaps/CORR/SubjectID_BetweenSessionTRT.csv
+  - /sharing/RfMRIMaps/CORR/SubjectID_WithinSessionTRT.csv
+  - /sharing/RfMRIMaps/CORR/SubjectID_HNU_CCBD_10Repetitions.csv
+
+FCP:
+  - /sharing/RfMRIMaps/FCP/Baltimore.rar
+  - /sharing/RfMRIMaps/FCP/Bangor.rar
+  - /sharing/RfMRIMaps/FCP/Beijing.part1.rar
+  - /sharing/RfMRIMaps/FCP/Beijing.part2.rar
+  - /sharing/RfMRIMaps/FCP/Berlin_Margulies.rar
+  - /sharing/RfMRIMaps/FCP/Cambridge.part1.rar
+  - /sharing/RfMRIMaps/FCP/Cambridge.part2.rar
+  - /sharing/RfMRIMaps/FCP/Cleveland.rar
+  - /sharing/RfMRIMaps/FCP/FCP_RfMRIMaps_Info.csv
+  - /sharing/RfMRIMaps/FCP/ICBM.rar
+  - /sharing/RfMRIMaps/FCP/Leiden_2180.rar
+  - /sharing/RfMRIMaps/FCP/Leiden_2200.rar
+  - /sharing/RfMRIMaps/FCP/Leipzig.rar
+  - /sharing/RfMRIMaps/FCP/Munchen.rar
+  - /sharing/RfMRIMaps/FCP/Newark.rar
+  - /sharing/RfMRIMaps/FCP/NewYork_a.rar
+  - /sharing/RfMRIMaps/FCP/NewYork_b.rar
+  - /sharing/RfMRIMaps/FCP/Orangeburg.rar
+  - /sharing/RfMRIMaps/FCP/Oulu.part1.rar
+  - /sharing/RfMRIMaps/FCP/Oulu.part2.rar
+  - /sharing/RfMRIMaps/FCP/Queensland.rar
+  - /sharing/RfMRIMaps/FCP/SaintLouis.rar
+
+Rumination_fMRI:
+  - /sharing/RfMRIMaps/PaperDataSharing/Chen_2020_RuminationfMRIData/RuminationfMRIData.tar.gz
+  - /sharing/RfMRIMaps/PaperDataSharing/Chen_2020_RuminationfMRIData/RuminationfMRIData_Phenotypic.csv
+
+ThinkAloud:
+  - /sharing/RfMRIMaps/PaperDataSharing/Li_2022_ThinkAloudfMRIData/ThinkAloudData.zip
