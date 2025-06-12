@@ -86,7 +86,7 @@ def download_with_aria2(ftp_path: str, output_dir: str):
 
 
 
-def main(output_root="/datastorage/li/fMRI", dataset_yaml="RawDatasets.yaml"):
+def main(output_root="/datastorage/li/fMRI", dataset_yaml="RfMRI_datasets.yaml"):
     os.makedirs(output_root, exist_ok=True)
     datasets = load_datasets_from_yaml(dataset_yaml)
 

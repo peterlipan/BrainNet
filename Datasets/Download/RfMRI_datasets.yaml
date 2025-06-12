@@ -57,9 +57,3 @@ FCP:
   - /sharing/RfMRIMaps/FCP/Queensland.rar
   - /sharing/RfMRIMaps/FCP/SaintLouis.rar
 
-Rumination_fMRI:
-  - /sharing/RfMRIMaps/PaperDataSharing/Chen_2020_RuminationfMRIData/RuminationfMRIData.tar.gz
-  - /sharing/RfMRIMaps/PaperDataSharing/Chen_2020_RuminationfMRIData/RuminationfMRIData_Phenotypic.csv
-
-ThinkAloud:
-  - /sharing/RfMRIMaps/PaperDataSharing/Li_2022_ThinkAloudfMRIData/ThinkAloudData.zip
